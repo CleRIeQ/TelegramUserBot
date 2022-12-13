@@ -4,3 +4,6 @@ env/
 account.session
 account.session-journal
 my_bot.session
+showyourwork/
+__pycache__
+bot_database.db
